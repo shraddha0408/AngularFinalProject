@@ -1,0 +1,54 @@
+.container{
+
+  align-items: center;
+  font-size: large;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(202, 187, 187);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  margin-left: 10px;
+  text-decoration: none;
+  
+}
+
+li a:hover {
+  background-color: rgb(100, 49, 49);
+}
+
+.glass
+{
+  background-color: rgb(224, 154, 154);
+
+}
+img{
+  border-radius: 8px;
+
+}
+.fixSize{
+  height: 120;
+  width: 120;
+}
+
+.container.img {
+  border-radius: 8px;
+  
+}
+.page-footer
+{
+  background-color: rgb(187, 167, 187);
+}
